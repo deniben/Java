@@ -9,6 +9,3 @@ class A{
     public static final int B = 1;
     public void method1(){};
 }
-class B extends A {
-
-}
